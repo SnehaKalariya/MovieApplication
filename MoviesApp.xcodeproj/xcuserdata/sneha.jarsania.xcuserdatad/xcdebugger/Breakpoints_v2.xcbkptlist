@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "40207CA3-4A5A-4A32-90DD-FA07D27132C4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "329CF811-29CD-454F-8158-C0EECEFFCCD6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Servicces/WebServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "popularListApiCall(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "329CF811-29CD-454F-8158-C0EECEFFCCD6 - 8c1a7f379124d33f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MoviesApp.Webservice.popularListApiCall(completionHandler: (Swift.Result&lt;MoviesApp.PopularListResponse, MoviesApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sneha.jarsania/Desktop/MoviesApp/MoviesApp/Servicces/WebServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "329CF811-29CD-454F-8158-C0EECEFFCCD6 - 8c1a7f379124d33f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MoviesApp.Webservice.popularListApiCall(completionHandler: (Swift.Result&lt;MoviesApp.PopularListResponse, MoviesApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sneha.jarsania/Desktop/MoviesApp/MoviesApp/Servicces/WebServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DB3C34A-80AB-40FD-B3B3-4901B0F62741"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Servicces/WebServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "popularListApiCall(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A46E72D-D73E-44DF-8EB3-B1163CD3C21D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/PopularListView/ViewModel/PopularListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "filterResponse(response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
